@@ -1,4 +1,4 @@
-# balls screensaver
+# Balls Screensaver
 Bildschirmschoner/Screensaver
 
 **Windows:**
