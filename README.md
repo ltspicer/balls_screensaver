@@ -11,6 +11,8 @@ Folgt später ;)
 
 *****
 
+Unter "Bildschirmschoner ändern" den balls auswählen.
+
 Einstellungen:
 
 Variante: 1 = Diagonal, 2 = Horizontal/Senkrecht
@@ -33,6 +35,8 @@ Copy **balls.scr** to folder **C:\windows\system32**. In case of problems try th
 Follows later
 
 *****
+
+Under "Change screensaver" select the balls.
 
 Settings:
 
