@@ -9,7 +9,7 @@ Bildschirmschoner/Screensaver
 
 Folgt später ;)
 
-
+---
 
 Einstellungen:
 
@@ -31,6 +31,7 @@ Copy **balls.scr** to folder **C:\windows\system32**. In case of problems try th
 
 Follows later
 
+---
 
 Settings:
 
