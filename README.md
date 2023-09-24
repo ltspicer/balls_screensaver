@@ -3,7 +3,7 @@ Bildschirmschoner/Screensaver
 
 **Windows:**
 
-**balls.scr** ins Verzeichnis **C:\windows\system32** kopieren. Bei Problemen mit der balls.scr aus dem Verzeichnis **win11_64bit** versuchen.
+**balls.scr** ins Verzeichnis **C:\windows\system32** kopieren. Bei Problemen, mit der balls.scr aus dem Verzeichnis **win11_64bit** versuchen.
 
 **Linux:**
 
