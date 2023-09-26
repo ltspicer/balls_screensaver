@@ -3,7 +3,9 @@ Bildschirmschoner/Screensaver
 
 **Windows:**
 
-**balls.scr** ins Verzeichnis **C:\windows\system32** kopieren. Bei Problemen, mit der balls.scr aus dem Verzeichnis **win11_64bit** oder **win10_32bit** versuchen.
+**balls.scr** ins Verzeichnis **C:\windows\system32** kopieren. Bei Problemen, mit der balls.scr aus dem Verzeichnis **win7_32bit** oder **win10_32bit** versuchen.
+
+Vollständig entfernen (deinstallieren): **C:\windows\system32\balls.scr** und **C:\ProgramData\balls.ini** löschen.
 
 **Linux:**
 
@@ -30,7 +32,9 @@ Sprache: de = Deutsch, en = Englisch
 
 **Windows:**
 
-Copy **balls.scr** to folder **C:\windows\system32**. In case of problems try the balls.scr from the **win11_64bit** or **win10_32bit** directory.
+Copy **balls.scr** to folder **C:\windows\system32**. In case of problems try the balls.scr from the **win7_32bit** or **win10_32bit** directory.
+
+Remove completely (uninstall): Delete **C:\windows\system32\balls.scr** and **C:\ProgramData\balls.ini** .
 
 **Linux:**
 
@@ -49,3 +53,4 @@ Delay: The smaller the value (0 to 1 second), the faster the process.
 Step size: 0-50 Pixel
 
 Language: de = German, en = English
+
