@@ -21,7 +21,7 @@ Variante: 1 = Diagonal, 2 = Horizontal/Senkrecht
 
 Verzögerung: Je kleiner der Wert (0 bis 1 Sekunde), desto schneller der Ablauf.
 
-Schrittweite: 0-50 Pixel
+Schrittweite: 1-50 Pixel
 
 Sprache: de = Deutsch, en = Englisch
 
@@ -50,7 +50,7 @@ Variant: 1 = Diagonal, 2 = Horizontal/Vertical
 
 Delay: The smaller the value (0 to 1 second), the faster the process.
 
-Step size: 0-50 Pixel
+Step size: 1-50 Pixel
 
 Language: de = German, en = English
 
