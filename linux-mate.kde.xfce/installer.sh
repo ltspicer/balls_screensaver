@@ -76,7 +76,7 @@ fi
 
 echo "#!/bin/bash" > $startername
 echo >> $startername
-echo "killall -9 balls.bin" >> $startername
+echo "killall -9 balls.bin 2>/dev/null" >> $startername
 echo >> $startername
 echo "#su "$username >> $startername
 echo >> $startername
@@ -85,10 +85,10 @@ echo >> $startername
 echo "export LD_PRELOAD=/usr/lib64/libstdc++.so.6" >> $startername
 echo "export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libstdc++.so.6" >> $startername
 echo >> $startername
-echo "/usr/bin/mate-screensaver-command -p" >> $startername
+echo "/usr/bin/mate-screensaver-command -p 2>/dev/null" >> $startername
 echo >> $startername
-echo "/usr/bin/xscreensaver-command -exit" >> $startername
-echo "/usr/bin/xscreensaver-command -deactivate" >> $startername
+echo "/usr/bin/xscreensaver-command -exit 2>/dev/null" >> $startername
+echo "/usr/bin/xscreensaver-command -deactivate 2>/dev/null" >> $startername
 echo >> $startername
 echo "./$startername.bin" >> $startername
 echo >> $startername

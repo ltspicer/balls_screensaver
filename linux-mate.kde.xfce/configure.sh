@@ -10,13 +10,12 @@
 
 startername="balls"
 
-killall -9 balls.bin
+killall -9 balls.bin 2>/dev/null
 
 export LD_PRELOAD=/usr/lib64/libstdc++.so.6
 export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libstdc++.so.6
 
-while true
-do
+while true; do
     ./balls.bin /c
 
     read -p"Testen?/Test it? (Y/n)" response
