@@ -9,7 +9,7 @@ Vollständig entfernen (deinstallieren): **C:\windows\system32\balls.scr** und *
 
 **Linux:**
 
-Folgt später ;)
+siehe **linux-mate.kde.xfce** Verzeichnis
 
 *****
 
@@ -38,7 +38,7 @@ Remove completely (uninstall): Delete **C:\windows\system32\balls.scr** and **C:
 
 **Linux:**
 
-Follows later
+see **linux-mate.kde.xfce** directory
 
 *****
 
