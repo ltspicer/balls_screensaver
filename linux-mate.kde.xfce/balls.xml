@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<screensaver name="balls" _label="balls">
+
+  <_description>
+    Draw balls.
+    Written by Daniel Luginbuehl; 2023.
+  </_description>
+</screensaver>
