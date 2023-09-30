@@ -1,5 +1,13 @@
 #!/bin/bash
 
+###############################
+#   Bildschirmschoner  V1.4   #
+#    von Daniel Luginbuehl    #
+#         (C) 2023            #
+#  webmaster@ltspiceusers.ch  #
+#                             #
+###############################
+
 startername="balls"
 
 function check_file {

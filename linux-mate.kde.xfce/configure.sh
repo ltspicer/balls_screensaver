@@ -1,5 +1,13 @@
 #!/bin/bash
 
+###############################
+#   Bildschirmschoner  V1.4   #
+#    von Daniel Luginbuehl    #
+#         (C) 2023            #
+#  webmaster@ltspiceusers.ch  #
+#                             #
+###############################
+
 killall -9 balls.bin
 
 export LD_PRELOAD=/usr/lib64/libstdc++.so.6
