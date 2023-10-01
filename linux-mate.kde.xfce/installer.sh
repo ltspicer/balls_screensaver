@@ -64,6 +64,7 @@ if [[ $uninst == 1 ]]; then
     $sudo_command rm /usr/lib/xscreensaver/$startername
     $sudo_command rm /usr/libexec/xscreensaver/$startername
     $sudo_command rm /usr/share/xscreensaver/config/$startername.xml
+    rm $HOME/.balls/$startername.ini
 
     if check_file $HOME/.xscreensaver; then
         sed -i '/		balls      	/d' $HOME/.xscreensaver
