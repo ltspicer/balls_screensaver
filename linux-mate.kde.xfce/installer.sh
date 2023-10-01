@@ -64,7 +64,7 @@ if [[ $uninst == 1 ]]; then
     $sudo_command rm /usr/lib/xscreensaver/$startername
     $sudo_command rm /usr/libexec/xscreensaver/$startername
     $sudo_command rm /usr/share/xscreensaver/config/$startername.xml
-    rm $HOME/.balls/$startername.ini
+    rm -rf $HOME/.balls
 
     if check_file $HOME/.xscreensaver; then
         sed -i '/		balls      	/d' $HOME/.xscreensaver
@@ -111,6 +111,7 @@ chmod 755 $pfad/$startername.bin
 rm $startername
 
 if check_file $HOME/.xscreensaver; then
+    sed -i '/		balls      	/d' $HOME/.xscreensaver
     sed -i '/\- GL\:/{ a\ \ GL\: 				balls      			    \\n\\
     ; :label n; b label }' $HOME/.xscreensaver
 else
