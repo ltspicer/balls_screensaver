@@ -34,10 +34,10 @@ if check_file /usr/share/applications/screensavers/$startername.desktop; then
     fi
 else
     uninst=0
-    echo "Bei Systemen ohne MATE-SCREENSAVER ist der xscreensaver zu installieren."
+    echo "Bei Systemen ohne MATE-SCREENSAVER ist zuerst der xscreensaver zu installieren."
     echo "ZBsp. unter Ubuntu: sudo apt install xscreensaver"
     echo
-    echo "For systems without MATE-SCREENSAVER the xscreensaver has to be installed."
+    echo "For systems without MATE-SCREENSAVER the xscreensaver has to be installed first."
     echo "E.g. on Ubuntu: sudo apt install xscreensaver"
     echo
     read -p"Weiter (j/n) | Continue (y/n)? " response
