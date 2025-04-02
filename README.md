@@ -1,6 +1,8 @@
 # Balls Screensaver
 Bildschirmschoner/Screensaver
 
+![](https://github.com/ltspicer/balls_screensaver/blob/main/screenshot.png)
+
 **Windows:**
 
 **balls.scr** ins Verzeichnis **C:\windows\system32** kopieren. Bei Problemen, mit der balls.scr aus dem Verzeichnis **win7_32bit** oder **win10_32bit** versuchen.
